@@ -1,0 +1,26 @@
+{
+  "name": "mn_360_oop_bank",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Naveed",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  },
+  "dependencies": {
+    "@faker-js/faker": "^8.4.1",
+    "@types/node": "^20.12.12",
+    "chalk": "^4.1.2",
+    "inquirer": "^9.2.22"
+  }
+}
